@@ -3,7 +3,7 @@
     <sys_id>445df2a4c32503105d201933e40131f8</sys_id>
     <sys_scope display_value="x_1861622_laptop_0">5b143ea0c3e103105d201933e4013122</sys_scope>
     <sys_update_name>sys_security_acl_445df2a4c32503105d201933e40131f8</sys_update_name>
-    <active>false</active>
+    <active>true</active>
     <admin_overrides>true</admin_overrides>
     <advanced>false</advanced>
     <applies_to/>
