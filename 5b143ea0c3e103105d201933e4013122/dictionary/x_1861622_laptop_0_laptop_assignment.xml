@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="b135c368c36503105d201933e40131e2" label="Laptop Assignment" max_length="40" name="x_1861622_laptop_0_laptop_assignment" type="collection">
+        <element label="Request" max_length="32" name="request" reference="x_1861622_laptop_0_laptop_request" type="reference"/>
+        <element label="Serial Number" max_length="60" name="serial_number" type="string"/>
+        <element label="Laptop" max_length="32" name="laptop" reference="x_1861622_laptop_0_laptop_catalog" type="reference"/>
+        <element label="Assigned By" max_length="32" name="assigned_by" reference="sys_user" type="reference"/>
+        <element label="Assignment Date" max_length="40" name="assignment_date" type="glide_date_time"/>
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="assigned_by"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index3">
+            <element name="laptop"/>
+        </index>
+        <index name="index4">
+            <element name="request"/>
+        </index>
+    </element>
+</database>

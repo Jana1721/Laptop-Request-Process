@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1861622_laptop_0.x_yourinitials_laptop_it_admin" name="x_1861622_laptop_0.x_yourinitials_laptop_it_admin">ef143ea0c3e103105d201933e401314c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 05:10:23</sys_created_on>
+        <sys_id>ef143ea0c3e103105d201933e4013151</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ef143ea0c3e103105d201933e401314c</sys_name>
+        <sys_package display_value="Laptop Request Process" source="x_1861622_laptop_0">5b143ea0c3e103105d201933e4013122</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request Process">5b143ea0c3e103105d201933e4013122</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ef143ea0c3e103105d201933e4013151</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 05:10:23</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

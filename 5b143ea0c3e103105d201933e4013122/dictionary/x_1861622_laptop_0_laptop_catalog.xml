@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="51c6f628c3e103105d201933e40131f6" label="Laptop Catalog" max_length="40" name="x_1861622_laptop_0_laptop_catalog" type="collection">
+        <element label="Available Stock" max_length="40" name="available_stock" type="integer"/>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Brand" max_length="40" name="brand" type="string"/>
+        <element label="Specification" max_length="255" name="specification" type="string"/>
+        <element display="true" label="Model Name" max_length="100" name="model_name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Price" max_length="40" name="price" type="currency"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

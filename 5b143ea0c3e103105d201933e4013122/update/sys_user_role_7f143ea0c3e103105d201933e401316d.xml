@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>fIcC5nffpnuda8kBPgwyNEMCPxfwpHVi46rpvGl9rls=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1861622_laptop_0.x_yourinitials_laptop_approver</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_yourinitials_laptop_approver</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 05:10:23</sys_created_on>
+        <sys_id>7f143ea0c3e103105d201933e401316d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1861622_laptop_0.x_yourinitials_laptop_approver</sys_name>
+        <sys_package display_value="Laptop Request Process" source="x_1861622_laptop_0">5b143ea0c3e103105d201933e4013122</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request Process">5b143ea0c3e103105d201933e4013122</sys_scope>
+        <sys_update_name>sys_user_role_7f143ea0c3e103105d201933e401316d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 05:10:23</sys_updated_on>
+    </sys_user_role>
+</record_update>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>Laptop Request Process</name>
+        <order/>
+        <roles/>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 06:57:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>936c4fe4c3a503105d201933e401319d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptop Request Process</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Laptop Request Process" source="x_1861622_laptop_0">5b143ea0c3e103105d201933e4013122</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request Process">5b143ea0c3e103105d201933e4013122</sys_scope>
+        <sys_update_name>sys_ui_application_936c4fe4c3a503105d201933e401319d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 06:57:14</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laptop Request Process">5b143ea0c3e103105d201933e4013122</application>
+        <file_path/>
+        <instance_id>9fa73c4a1bee359cc84543f4bd4bcb51</instance_id>
+        <instance_name>dev215290</instance_name>
+        <name>sys_ui_application_936c4fe4c3a503105d201933e401319d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Laptop Request Process</name><order/><roles/><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 06:57:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>936c4fe4c3a503105d201933e401319d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Laptop Request Process</sys_name><sys_overrides/><sys_package display_value="Laptop Request Process" source="x_1861622_laptop_0">5b143ea0c3e103105d201933e4013122</sys_package><sys_policy/><sys_scope display_value="Laptop Request Process">5b143ea0c3e103105d201933e4013122</sys_scope><sys_update_name>sys_ui_application_936c4fe4c3a503105d201933e401319d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 06:57:14</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>-1739029842</payload_hash>
+        <record_name>Laptop Request Process</record_name>
+        <reverted_from/>
+        <source>2b143ea0c3e103105d201933e401312b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 06:57:14</sys_created_on>
+        <sys_id>7c9c07acc36503105d201933e4013111</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19eca11f39c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 06:57:14</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>3c9c07ac9865031011fe7ed73a7c1b10</update_guid>
+        <update_guid_history>3c9c07ac9865031011fe7ed73a7c1b10:-1739029842</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 14:53:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>463900ea3af24cda9951f62b45edfd44</sys_id>
+        <sys_metadata>936c4fe4c3a503105d201933e401319d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptop Request Process</sys_name>
+        <sys_package display_value="Laptop Request Process" source="x_1861622_laptop_0">5b143ea0c3e103105d201933e4013122</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request Process">5b143ea0c3e103105d201933e4013122</sys_scope>
+        <sys_scope_delete display_value="">2c52d83aeeae4ecb8852bca99e9e0341</sys_scope_delete>
+        <sys_update_name>sys_ui_application_936c4fe4c3a503105d201933e401319d</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_936c4fe4c3a503105d201933e401319d">7c9c07acc36503105d201933e4013111</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 14:53:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

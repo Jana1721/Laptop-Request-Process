@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_1861622_laptop_0_laptop_catalog</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 05:52:36</sys_created_on>
+        <sys_id>d5d09dddc3e103105d201933e4013108</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1861622_laptop_0_laptop_catalog</sys_name>
+        <sys_package display_value="Laptop Request Process" source="x_1861622_laptop_0">5b143ea0c3e103105d201933e4013122</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request Process">5b143ea0c3e103105d201933e4013122</sys_scope>
+        <sys_update_name>sys_security_acl_d5d09dddc3e103105d201933e4013108</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 05:52:36</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laptop Request Process">5b143ea0c3e103105d201933e4013122</application>
+        <file_path/>
+        <instance_id>9fa73c4a1bee359cc84543f4bd4bcb51</instance_id>
+        <instance_name>dev215290</instance_name>
+        <name>sys_security_acl_d5d09dddc3e103105d201933e4013108</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_1861622_laptop_0_laptop_catalog</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-17 05:52:36</sys_created_on><sys_id>d5d09dddc3e103105d201933e4013108</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1861622_laptop_0_laptop_catalog</sys_name><sys_package display_value="Laptop Request Process" source="x_1861622_laptop_0">5b143ea0c3e103105d201933e4013122</sys_package><sys_policy/><sys_scope display_value="Laptop Request Process">5b143ea0c3e103105d201933e4013122</sys_scope><sys_update_name>sys_security_acl_d5d09dddc3e103105d201933e4013108</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-17 05:52:36</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-458151536</payload_hash>
+        <record_name>x_1861622_laptop_0_laptop_catalog</record_name>
+        <reverted_from/>
+        <source>2b143ea0c3e103105d201933e401312b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 05:52:36</sys_created_on>
+        <sys_id>2df09111c32503105d201933e40131d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ed4237db40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 05:52:36</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>e9f091114625031013955bae44c7a5d8</update_guid>
+        <update_guid_history>e9f091114625031013955bae44c7a5d8:-458151536</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 06:33:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>2d87dc9f23f049648e1288486c607110</sys_id>
+        <sys_metadata>d5d09dddc3e103105d201933e4013108</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1861622_laptop_0_laptop_catalog</sys_name>
+        <sys_package display_value="Laptop Request Process" source="x_1861622_laptop_0">5b143ea0c3e103105d201933e4013122</sys_package>
+        <sys_parent display_value="x_1861622_laptop_0_laptop_catalog">19c6f628c3e103105d201933e40131fb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request Process">5b143ea0c3e103105d201933e4013122</sys_scope>
+        <sys_scope_delete display_value="">2c52d83aeeae4ecb8852bca99e9e0341</sys_scope_delete>
+        <sys_update_name>sys_security_acl_d5d09dddc3e103105d201933e4013108</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_d5d09dddc3e103105d201933e4013108">2df09111c32503105d201933e40131d9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 06:33:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

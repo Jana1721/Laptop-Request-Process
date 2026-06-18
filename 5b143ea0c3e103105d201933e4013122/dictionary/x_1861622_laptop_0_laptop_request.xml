@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="2a4d72a4c32503105d201933e4013170" label="Laptop Request" max_length="40" name="x_1861622_laptop_0_laptop_request" type="collection">
+        <element label="Laptop Model" max_length="32" name="laptop_model" reference="x_1861622_laptop_0_laptop_catalog" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element choice="3" label="Approval Status" max_length="255" name="approval_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Assigned" sequence="3" value="assigned"/>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="approved"/>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
+                <element inactive_on_update="false" label="Closed" sequence="4" value="closed"/>
+                <element inactive_on_update="false" label="Rejected" sequence="2" value="rejected"/>
+            </choice>
+        </element>
+        <element label="Business Justification" max_length="100" name="business_justification" type="string"/>
+        <element label="Requested For" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element label="Assigned Asset Tag" max_length="60" name="assigned_asset_tag" type="string"/>
+        <index name="index">
+            <element name="laptop_model"/>
+        </index>
+        <index name="index2">
+            <element name="requested_for"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
